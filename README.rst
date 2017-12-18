@@ -22,7 +22,7 @@ Prerequisites
 In order to use ``simplegeoip2``, you must have the MaxMind GeoLite2 databases on your system. This simplest way to do
 this is to use the ``geoipupdate`` tool from MaxMind.
 
-
+https://github.com/maxmind/geoipupdate
 
 Installation
 ------------
