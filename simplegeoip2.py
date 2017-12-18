@@ -13,7 +13,7 @@ import json
 import geoip2.database
 
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 
 class GeoIP:

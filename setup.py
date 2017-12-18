@@ -21,7 +21,7 @@ here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 description = "A Python module and CLI tool that returns IP address ownership and location information based on " \
               "MaxMind's Geolite2 databases"
 
@@ -76,7 +76,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='GeoIP, Gel MaxMind',
+    keywords='GeoIP, GeoLite2, MaxMind',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
