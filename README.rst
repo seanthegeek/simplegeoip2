@@ -42,13 +42,13 @@ To install or upgrade to the latest stable release of checkdmarc on macOS or Lin
 
 ::
 
-    $ sudo pip3 -U install checkdmarc
+    $ sudo pip3 -U install simplegeoip2
 
 Or, install the latest development release directly from GitHub:
 
 ::
 
-    $ sudo pip3 -U install git+https://github.com/domainaware/simplegeoip.git
+    $ sudo pip3 -U install git+https://github.com/domainaware/simplegeoip2.git
 
 
 Note to Windows users
